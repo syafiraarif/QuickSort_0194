@@ -11,7 +11,9 @@ int n;
 
 void input()
 {
-
+	while (true)
+	{
+	}
 }
 
 int main()
